@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently busy working on a web-based social application project.
+- 🔭 I’m currently busy working on software projects.
 
 <!--
 **miladmehraban/miladmehraban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
