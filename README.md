@@ -1,5 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently busy working on software projects.
+- 🌱 I’m currently focued on AI and machine learning applications design and development.
 - 📫 How to reach me? Well, you should already have my contact information, if you know me!
 
 <!--
